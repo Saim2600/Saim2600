@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Mhapasekar
 
-<!--
-**Saim2600/Saim2600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Full Stack Developer | ML Enthusiast  
+🚀 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Project
+
+### 🏏 IPL Win Predictor
+👉 https://iplpredictor.streamlit.app/
+
+- Real-time win probability prediction
+- Built using Machine Learning
+- Deployed on Streamlit Cloud
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: Python, JavaScript, C++
+- 🌐 Web: React.js, Node.js, Express.js
+- 🧠 ML: Scikit-learn, Pandas, NumPy
+- 🗄️ Database: MongoDB, MySQL
+- ⚙️ Tools: Git, GitHub, Postman
+
+---
+
+## 📊 GitHub Stats
+
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saim2600&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: (www.linkedin.com/in/sai-mhapasekar)
+- Email: (saimhapasekar2600@gmail.com)
+
+---
+
+⭐ Always building. Always learning.
