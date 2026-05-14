@@ -21,14 +21,8 @@
 - 💻 Languages: Python, JavaScript, C++
 - 🌐 Web: React.js, Node.js, Express.js
 - 🧠 ML: Scikit-learn, Pandas, NumPy
-- 🗄️ Database: MongoDB, MySQL
+- 🗄️ Database: MongoDB, MySQL, PostgreSQL
 - ⚙️ Tools: Git, GitHub, Postman
-
----
-
-## 📊 GitHub Stats
-
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saim2600&show_icons=true&theme=tokyonight)
 
 ---
 
