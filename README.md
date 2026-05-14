@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sai Mhapasekar
 
 🎓 Computer Engineering Student  
-💻 Full Stack Developer | Data Analyst | ML Enthusiast
-🚀 Passionate about building real-world projects  
+💻 Full Stack Developer | Data Analyst | ML Enthusiast 
 
 ---
 
