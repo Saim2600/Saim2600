@@ -5,17 +5,6 @@
 
 ---
 
-## 🔥 Featured Project
-
-### 🏏 IPL Win Predictor
-👉 https://iplpredictor.streamlit.app/
-
-- Real-time win probability prediction
-- Built using Machine Learning
-- Deployed on Streamlit Cloud
-
----
-
 ## 🛠️ Tech Stack
 
 - 💻 Languages: Python, JavaScript, C++
